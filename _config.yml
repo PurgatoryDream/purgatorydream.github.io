@@ -9,37 +9,38 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Europe/Madrid
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Thyria # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Computer Engineer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A website made to post blogs about anything I find interesting,
+  or about projects I work on every once in a while.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://purgatorydream.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: purgatorydream # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: theouterchaos # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Thyria
+  email: theouterchaosthyria@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/theouterchaos # change to your Twitter homepage
+    - https://github.com/purgatorydream # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -98,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "https://avatars.githubusercontent.com/u/93832054?s=400&u=5c8b15f1c0c2897d7b87b606c6ea4878091ed948&v=4"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
